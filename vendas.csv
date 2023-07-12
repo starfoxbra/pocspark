@@ -1,0 +1,10 @@
+nome,cpf,pais,data,bandeira,id_transacao,banco_pagamento,status_transacao,valor
+Fred Underwood,18804325353,Pitcairn Islands,2018-09-02 14:30:02,visa,58996962,itau,estornada,1393
+Harold Barajas,35584029387,India,2022-07-05 02:13:30,mastercard,80409839,itau,estornada,6515
+Michelle Acosta,44020607664,Morocco,2020-02-08 04:06:19,elo,33529363,bradesco,aprovada,126
+Joanna Mosley,48093623750,New Zealand,2021-01-19 04:09:49,mastercard,71134778,bradesco,aprovada,5647
+Maria Owens,645252103,South Africa,2019-03-26 00:29:51,visa,35516403,banco do brasil,estornada,9588
+Brittany Ryan,23968468900,Faroe Islands,2022-02-20 08:16:10,visa,93095929,banco do brasil,aprovada,3229
+Angela Kane,22434720714,Cape Verde,2018-09-03 05:17:01,mastercard,97344838,bradesco,estornada,4040
+Barbara Perez,51541023115,Cocos (Keeling) Islands,2022-07-23 08:17:42,elo,75722241,banco do brasil,estornada,5412
+Michael Jackson,85882519477,Dominica,2020-03-09 01:40:59,elo,6618224,itau,negada,8231
